@@ -1,0 +1,16 @@
+#maindiv{
+    border: 2px solid black;
+    height: 90vh;
+    display: none;
+}
+
+#list{
+    list-style: none;
+}
+
+li{
+    padding: 16px;
+    box-shadow: 0px 1px 2px grey;
+    border-radius: 5px;
+    margin: 10px;
+}
