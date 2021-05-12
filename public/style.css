@@ -1,6 +1,6 @@
 #maindiv{
     border: 2px solid black;
-    height: 90vh;
+    min-height: 90vh;
     display: none;
 }
 
